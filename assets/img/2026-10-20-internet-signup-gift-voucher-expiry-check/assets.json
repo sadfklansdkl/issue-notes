@@ -1,0 +1,10 @@
+{"hero_prompt": "A calm kitchen table at home with a smartphone lying face up showing a blank glowing screen, a small white internet router with green lights, and a paper wall calendar nearby, soft afternoon window light. Realistic photo style, no people. No text, no letters, no numbers, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "checklist", "title": "사은품 상품권 확인", "items": ["3년 안 가입·재약정 떠올리기", "문자함에서 '상품권' 검색", "유효기간 확인 후 달력에 적기", "만료 안내 문자 기다리지 않기", "만료됐으면 재발급·연장 요청", "다음 가입 땐 유효기간 묻기"]},
+   {"type": "numbers", "title": "사은품 상품권 숫자", "rows": [
+     ["평균 미사용률", "약 5.4%", "최근 3년, 김장겸 의원실"],
+     ["지난해 미사용 추산", "250~420억", "가입자·약정 주기로 추정"],
+     ["유효기간", "60일~1년", "상품권 종류별"],
+     ["만료 전 알림 시스템", "연내", "통신 3사 방침"]
+   ]}
+ ]}

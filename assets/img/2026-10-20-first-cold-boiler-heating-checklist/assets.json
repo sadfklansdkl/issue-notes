@@ -1,0 +1,10 @@
+{"hero_prompt": "A tidy small home boiler room with a wall-mounted gas boiler, its silver exhaust pipe, and a simple wall thermostat, lit by soft early-morning autumn light from a small window. Calm, realistic, no people. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "checklist", "title": "첫 추위 난방 점검", "items": ["배기통 연결부 빠짐 확인", "이상 보이면 업체에 점검 요청", "보일러실 일산화탄소 경보기", "중간밸브·분배기 밸브 열기", "실내 18~20℃, 외출 땐 1~2℃↓", "지역난방은 끄지 말고 외출모드", "전기장판 KC·열선 꺾임 확인"]},
+   {"type": "numbers", "title": "알아 둘 숫자", "rows": [
+     ["배기통 이탈 사고", "9/21건", "2017~2021 가스보일러 사고"],
+     ["1℃ 낮추면", "약 7%", "에너지 소비 감소, 에너지공단"],
+     ["전기장판·전기요 비중", "64.2%", "난방용품 사고 4,154건 중"],
+     ["11월 난방용품 사고", "14.2%", "1월 다음, 한국소비자원"]
+   ]}
+ ]}
