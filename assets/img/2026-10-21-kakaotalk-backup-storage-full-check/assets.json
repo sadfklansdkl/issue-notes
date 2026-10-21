@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style scene of two smartphones lying side by side on a wooden kitchen table next to a cup of tea, soft morning window light, screens dark. No text, no letters, no logos, no brand names, no people's faces.",
+ "cards": [
+   {"type": "checklist", "title": "카톡 백업 전 확인 7", "items": ["무료 백업은 텍스트만", "설정 > 백업 > 대화 임시 백업", "중요한 방은 내보내기로 저장", "오픈채팅은 미리 내보내기", "백업 비밀번호 적어 두기", "쓰던 카카오계정으로 로그인", "14일 안에 복원하기"]},
+   {"type": "numbers", "title": "카톡 백업 숫자", "rows": [["무료 복원 기한", "14일", "카카오 고객센터"], ["무료 백업 한도", "비공개", "2026-10 국회 지적"], ["톡클라우드 30GB", "월 2,100원", "2026-02 보도 기준"]]}
+ ]}
