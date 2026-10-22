@@ -1,0 +1,5 @@
+{"hero_prompt": "A calm, realistic photo-style scene of an empty wedding reception hall with round tables set with white tablecloths, plates, glasses and small flower centerpieces, soft warm lighting. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "축의금 정하기 전 확인", "items": ["식사가 코스인지 뷔페인지", "직접 참석인지 송금만인지", "같이 가는 사람 수 세기", "서울 등은 식대 높은 편", "관계·주고받은 이력 먼저", "예비부부는 최소보증인원", "숫자는 26년 2월 조사 평균"]},
+   {"type": "numbers", "title": "예식장 1인 식대", "rows": [["코스식", "11만9천원", "소비자원 2026년 2월 조사"], ["뷔페식", "6만2천원", "소비자원 2026년 2월 조사"], ["한상차림", "5만5천원", "소비자원 2026년 2월 조사"], ["코스 최소보증인원", "218명", "평균, 세계일보 10-21 보도"]]}
+ ]}

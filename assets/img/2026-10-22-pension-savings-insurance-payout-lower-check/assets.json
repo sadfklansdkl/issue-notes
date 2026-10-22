@@ -1,0 +1,5 @@
+{"hero_prompt": "A calm, realistic photo-style scene of a kitchen table in soft morning light with an opened plain envelope, a few blank paper sheets, a simple calculator, reading glasses and a cup of tea. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "연금보험 확인할 것", "items": ["금리연동형인지 확인", "적용이율·최저보증이율 묻기", "배당금 몫은 따로 묻기", "수령 중에도 금액 변동 가능", "해지 전 16.5% 세금 확인", "부득이한 사유는 6개월 안 증빙", "계좌이체 가능한지 먼저 묻기"]},
+   {"type": "numbers", "title": "금감원 안내 숫자", "rows": [["적용이율 사례", "11.25%→4.0%", "최저보증이율까지 하락"], ["배당금 사례", "900만→19만원", "연간, 유배당 민원 사례"], ["중도인출 세금", "16.5%", "기타소득세"], ["부득이한 사유 증빙", "6개월 이내", "사유 확인일부터"]]}
+ ]}
