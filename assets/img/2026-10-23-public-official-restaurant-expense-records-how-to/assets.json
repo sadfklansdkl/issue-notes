@@ -1,0 +1,4 @@
+{"hero_prompt": "An open laptop on an office desk showing a generic spreadsheet with blurred rows, a paper lunch menu and a pen beside it, soft midday light near a window with a city street outside, calm realistic photo style. No readable text, no letters, no logos, no brand names, no people's faces.",
+ "cards": [
+   {"type": "checklist", "title": "공무원 맛집 찾는 순서", "items": ["열린데이터광장 업추비 목록", "전체는 CSV로 내려받기", "사용 장소 열로 횟수 세기", "집행목적 보고 식사만 남기기", "구청은 공공데이터포털 검색", "없으면 open.go.kr 청구", "식당명 공개 1심 판결 있음"]}
+ ]}
