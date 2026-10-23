@@ -1,5 +1,1 @@
-{"hero_prompt": "A smartphone lying face-up on a wooden kitchen table next to a cup of tea, its screen glowing with a blank notification bubble, soft morning window light, calm and realistic photo style. No text, no letters, no logos, no brand names, no people's faces.",
- "cards": [
-   {"type": "checklist", "title": "유출 뒤 할 일 6가지", "items": ["통지 문자·메일 왔는지 확인", "보상 내세운 문자 링크 금지", "앱 설치·대출 유도 전화 끊기", "털린 내 정보 찾기로 조회", "유출 나오면 비밀번호 변경", "불안하면 금융거래 안심차단"]},
-   {"type": "numbers", "title": "이번 유출 한눈에", "rows": [["유출 회원", "약 6만7천 명", "전체 회원 약 230만 명"], ["유출 항목", "닉네임·전화번호·이메일 등", "비밀번호·결제정보는 제외(회사 설명)"], ["접근 시간", "10/18 18:45~", "10/19 00:50까지"]]}
- ]}
+{"hero_prompt": "Close-up of a hand fastening a door security chain with a key in the lock, inside a hallway at dusk, cool blue window light and one warm lamp.", "cards": [{"type": "checklist", "title": "유출 뒤 할 일 6가지", "items": ["통지 문자·메일 왔는지 확인", "보상 내세운 문자 링크 금지", "앱 설치·대출 유도 전화 끊기", "털린 내 정보 찾기로 조회", "유출 나오면 비밀번호 변경", "불안하면 금융거래 안심차단"]}, {"type": "numbers", "title": "이번 유출 한눈에", "rows": [["유출 회원", "약 6만7천 명", "전체 회원 약 230만 명"], ["유출 항목", "닉네임·전화번호·이메일 등", "비밀번호·결제정보는 제외(회사 설명)"], ["접근 시간", "10/18 18:45~", "10/19 00:50까지"]]}]}
