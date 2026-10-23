@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section class="hero-intro wrap">
+  <h1>지금 내 생활에<br>바로 필요한 정리</h1>
+  <p>뉴스에 나온 일이 나에게 무엇을 바꾸는지, 지금 할 일 위주로 짧게 정리해요. 모든 글에 출처를 붙여요.</p>
+</section>
+<section class="wrap">
+  {%- assign posts = site.posts -%}
+  {%- if posts.size > 0 %}{% include card.html post=posts.first big=true %}{% endif %}
+  <h2 class="sec">최근 글</h2>
+  <div class="grid">
+    {%- for p in posts offset: 1 %}{% include card.html post=p %}{% endfor -%}
+  </div>
+</section>

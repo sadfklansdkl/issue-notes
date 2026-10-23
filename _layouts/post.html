@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- assign mins = content | strip_html | size | divided_by: 600 | plus: 1 -%}
+<article class="post wrap-narrow">
+  <header class="post-head">
+    {%- if page.tags.size > 0 %}<span class="chip">{{ page.tags.first }}</span>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {%- if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    <p class="meta">{{ page.date | date: "%Y년 %-m월 %-d일" }} · {{ mins }}분 읽기</p>
+  </header>
+  <div class="prose">{{ content }}</div>
+  {%- if page.tags.size > 0 %}<div class="tags">{% for t in page.tags %}<span>#{{ t }}</span>{% endfor %}</div>{% endif %}
+</article>
+<section class="wrap more">
+  <h2 class="sec">다른 글</h2>
+  <div class="grid">
+    {%- assign n = 0 -%}
+    {%- for p in site.posts -%}{%- if p.url != page.url and n < 3 -%}{% include card.html post=p %}{%- assign n = n | plus: 1 -%}{%- endif -%}{%- endfor -%}
+  </div>
+</section>

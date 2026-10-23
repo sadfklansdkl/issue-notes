@@ -1,0 +1,11 @@
+{%- assign p = include.post -%}
+{%- assign mins = p.content | strip_html | size | divided_by: 600 | plus: 1 -%}
+<a class="card{% if include.big %} card-big{% endif %}" href="{{ p.url | relative_url }}">
+  {%- if p.image %}<div class="thumb"><img src="{{ p.image | relative_url }}" alt="" loading="lazy"></div>{% endif -%}
+  <div class="card-body">
+    {%- if p.tags.size > 0 %}<span class="chip">{{ p.tags.first }}</span>{% endif %}
+    <h3>{{ p.title }}</h3>
+    {%- if p.description %}<p>{{ p.description }}</p>{% endif %}
+    <span class="meta">{{ p.date | date: "%-m월 %-d일" }} · {{ mins }}분</span>
+  </div>
+</a>
