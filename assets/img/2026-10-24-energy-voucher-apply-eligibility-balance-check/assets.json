@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style wide shot of the outside wall of a small rural Korean house on an overcast winter afternoon: a pale green outdoor kerosene oil tank on metal legs, a red plastic fuel jerry can on the concrete ground beside it, bare persimmon tree branches and a low stone wall in the background, muted grey-blue colors, ordinary phone photo look. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "에너지바우처 체크", "items": ["생계·의료·주거·교육급여 수급 확인", "노인·영유아·장애인 등 세대원 확인", "작년 수급·변동 없으면 자동 신청", "이사·세대원 변동 시 새로 신청", "12월 31일까지 주민센터·복지로", "요금 차감 또는 국민행복카드", "잔액: 복지로 복지지갑"]},
+   {"type": "numbers", "title": "2026 에너지바우처", "rows": [["1인 세대", "295,200원", "1년 총액, 서울시 안내"], ["2인 세대", "407,500원", "1년 총액, 서울시 안내"], ["3인 / 4인", "532,700 / 701,300원", "1년 총액, 서울시 안내"], ["동절기 요금 차감", "~2027.5.31", "에너지바우처 누리집"]]}
+ ]}

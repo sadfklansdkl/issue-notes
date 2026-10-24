@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style street-level view of a Korean apartment building on an overcast weekday morning: a truck-mounted ladder lift extended up to an upper-floor window, a small stack of plain brown cardboard moving boxes and a wrapped mattress on the pavement at its base, cool grey and brown tones, ordinary phone photo look. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "포장이사 체크", "items": ["업체 상호·사업자번호 확인", "플랫폼 분쟁 절차·약관 읽기", "계약서에 추가요금 조건 확인", "계약서·영수증 보관", "당일 사진·영상 남기기", "이사 직후 손상 점검", "문제 생기면 바로 신고"]},
+   {"type": "numbers", "title": "포장이사 피해", "rows": [["플랫폼 피해 경험", "33.5%", "소비자원 설문, 뉴시스"], ["피해자 중 배상", "18.9%", "소비자원 설문, 뉴시스"], ["피해구제 중 파손", "69.9%", "2021~23년, 경북매일"], ["합의 비율", "37.7%", "2021~23년, 경북매일"]]}
+ ]}
