@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style close-up of a wall of grey metal apartment lobby mailboxes at night under cool fluorescent light: one small mailbox slot with a plain white envelope sticking halfway out, the other slots empty and closed, shallow depth of field, cool silver and white tones, seen straight on at eye level. No text, no letters, no numbers, no name tags, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "근로장려금 지급일 확인", "items": ["반기분인지 기한 후인지 구분", "반기 신청 → 12월 17일(예정)", "자동신청 동의 가구는 신청 완료", "12월엔 연간 예상액 35%만", "15만원 미만이면 12월 미지급", "2025년분 12월 1일까지 신청", "문의 1566-3636"]},
+   {"type": "numbers", "title": "지급 비율", "rows": [["반기분 12월 지급", "35%", "연간 예상산정액 기준"], ["반기분 지급일", "12월 17일", "예정, 국세청 안내 기사"], ["기한 후 신청", "95%", "2025년 소득분, 12/1 마감"], ["재산 1.7억~2.4억", "50%", "장려금 감액 지급"]]}
+ ]}

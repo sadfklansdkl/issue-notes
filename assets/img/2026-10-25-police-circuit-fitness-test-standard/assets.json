@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style wide shot of an empty indoor police training gym under bright white fluorescent ceiling lights: a heavy grey padded human-shaped rescue training dummy lying on a dark blue rubber floor, a row of low metal hurdles and a short wooden wall obstacle behind it, a plain black weighted vest draped over a hurdle, cool blue and grey tones, seen from a slightly high angle. No text, no letters, no numbers, no logos, no badges, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "순환식 체력시험 확인", "items": ["2026 순경 공채부터 남녀 통합", "5종목 한 코스로 이어서", "장애물 달리기 6바퀴", "4.2kg 조끼 입고 진행", "32kg 밀기·당기기, 72kg 더미", "점수 합산 아닌 시간, 4분40초", "세부 기준은 채용 공고 확인"]},
+   {"type": "numbers", "title": "첫 시험 결과", "rows": [["체력시험 응시", "5,116명", "2026 상반기, 세계일보"], ["기준 시간", "4분 40초", "남녀 동일, 서울신문"], ["여성 통과", "1,158명 (42%)", "여성 응시 2,727명 중"], ["최종 합격 여성", "37.8%", "2,941명 중 1,112명"]]}
+ ]}
