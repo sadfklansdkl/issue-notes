@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style close-up seen from above of a small stainless steel tray on a white treatment table in a neighborhood clinic on a bright morning: one capped single-dose prefilled syringe, a sealed square alcohol swab packet and a round beige adhesive bandage, soft warm daylight from the side, clean white and pale blue tones, shallow depth of field. No text, no letters, no numbers, no labels, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "독감 무료접종 확인", "items": ["어린이 2012.1.1~2026.8.31 출생", "어린이·임신부 9월 21일부터", "9세 미만 첫 접종은 2회", "75세↑10/6·70~74세 10/12", "65~69세 10월 15일부터", "위탁기관 찾고 가능 여부 확인", "신분증, 접종 후 20~30분 대기"]},
+   {"type": "numbers", "title": "알아 둘 숫자", "rows": [["무료접종 기간", "~2027.4.30", "2026.9.21 시작, 질병관리청"], ["위탁의료기관", "약 2만 3천 곳", "주소지 무관, 보건소도 가능"], ["확보 백신", "약 1,233만 도즈", "3가 백신"], ["입원 중 65세↑", "60.0%", "36주차, 9/11 유행주의보"]]}
+ ]}
