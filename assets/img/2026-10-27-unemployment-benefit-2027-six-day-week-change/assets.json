@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style eye-level side view of a long row of empty light grey connected metal waiting chairs in a quiet public office lobby at midday, one chair holding a folded beige trench coat and a plain canvas tote bag, soft overcast daylight from tall windows on the left, polished pale floor, muted beige and grey tones, shallow depth of field. No text, no letters, no numbers, no signs, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "실업급여 지금 기준", "items": ["개편안은 아직 시행 전", "하루 상한 6만8100원", "하루 하한 6만6048원", "18개월 중 180일(유급일만)", "개편안: 주 7일→6일 지급", "개편안: 총액 유지, 기간 늘어", "개편안: 보험료 0.9→1.0%"]},
+   {"type": "numbers", "title": "알아 둘 숫자", "rows": [["2026 하루 상한", "6만8100원", "월 환산 204만3000원"], ["2026 하루 하한", "6만6048원", "월 환산 198만1440원"], ["개편안 월 지급", "약 176만원", "하한액 기준, 총액 990만 유지"], ["근로자 보험료율", "0.9%→1.0%", "개편안, 한국경제 9/1"]]}
+ ]}

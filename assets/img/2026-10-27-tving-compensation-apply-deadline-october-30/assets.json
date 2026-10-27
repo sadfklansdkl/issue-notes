@@ -1,0 +1,5 @@
+{"hero_prompt": "English. A calm, realistic photo-style close-up of a plain black TV remote control resting on the armrest of a fabric sofa covered with a cream knitted blanket, in a living room on an autumn evening, lit by a single warm floor lamp from the side, the switched-off television only a dark soft blur far in the background, deep red and cream tones, slightly low angle. No text, no letters, no numbers, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "checklist", "title": "티빙 보상 신청", "items": ["마감 10월 30일 23:59", "로그인 → MY 보상 신청", "휴면·탈퇴 회원도 대상", "4가지 중 1개 선택", "연장 기간엔 CGV 쿠폰 없음", "기존 신청자 변경 불가", "11월 4일 10시부터 지급"]},
+   {"type": "numbers", "title": "알아 둘 숫자", "rows": [["유출 계정", "3954만 개", "중복 포함, 과기정통부 9/3"], ["KT 이용권 계정", "52만7000건", "3954만에 미포함, MTN"], ["안심보험 보장", "최대 300만원", "1년, 11/4~2027-11-3"], ["포인트·프리미엄", "~2027.1.31", "포인트 50P, 프리미엄 4개월"]]}
+ ]}
