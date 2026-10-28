@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:The exam location (Puhung High School), for The South Korea College Scholastic Ability Test, 2018.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.suneung.re.kr/main.do?s=suneung", "highlight": "수험생 유의사항", "site": "한국교육과정평가원 수능 누리집"}
+ ],
+ "hero_prompt": "English. A quiet, empty Korean high school classroom set up for a national exam in late autumn morning light: rows of single wooden desks with numbered paper tags taped on the corners, a single pair of ordinary eyeglasses folded on one desk, cool blue-grey window light, shot from the back corner at desk height. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "수능 부정행위 숫자", "rows": [
+     ["5년 부정행위", "1,229건", "2022~2026학년도"],
+     ["종료령 후 작성", "479건(39.0%)", "답안·가채점표, 가장 많음"],
+     ["반입 물품 미제출", "348건(28.3%)", "스마트안경도 1교시 전 제출"],
+     ["2027 수능일", "11월 19일", "성적 통지 12월 11일"]
+   ]}
+ ]}

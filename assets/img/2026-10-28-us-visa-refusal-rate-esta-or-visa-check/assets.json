@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:20240413 Embassy of the United States in Seoul.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://0404.go.kr/bbs/embsyNtc/426/detail?ntnCd=28", "highlight": "ESTA 적용 배제", "site": "외교부 해외안전여행"}
+ ],
+ "hero_prompt": "English. Close-up of a dark green passport-style booklet and a printed boarding pass resting on an airport check-in counter edge, early evening, warm amber terminal lights blurred in the background, shallow depth of field, shot from slightly above. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "미국 방문비자 거절률", "rows": [
+     ["한국 2025", "24.73%", "전년 14.97%, 외교부 자료"],
+     ["1년 새 상승", "9.76%p", "2020년 공개 이후 최고"],
+     ["중국 2025", "20.21%", "전년 25.37%"],
+     ["일본 2025", "5.68%", "전년 5.76%"]
+   ]}
+ ]}
