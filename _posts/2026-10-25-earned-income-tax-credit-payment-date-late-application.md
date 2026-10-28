@@ -28,9 +28,15 @@ tags: [근로장려금, 근로장려금지급일, 근로장려금기한후신청
 
 ![근로장려금 지급 비율 숫자]({{ '/assets/img/2026-10-25-earned-income-tax-credit-payment-date-late-application/card2.png' | relative_url }})
 
+## 함께 보면 좋은 글
+- [에너지바우처 지금 신청해도 되나? 대상·금액·잔액조회 정리]({{ '/2026/10/24/energy-voucher-apply-eligibility-balance-check/' | relative_url }})
+
 ## 출처
 - [SBS Biz — 근로장려금, 9월 15일까지 신청받는다…12월 17일 지급 (2026-09-01)](https://biz.sbs.co.kr/amp/article/20000331948)
 - [세무신문 — 올해 상반기 귀속 근로장려금은 12월7일에 지급 (2026-09-01, 본문은 '12월17일(예정)')](https://taxtimes.co.kr/news/article.html?no=276645)
 - [비건뉴스 — 근로·자녀장려금 기한 후 신청 12월 1일까지 (2026-06-25)](https://www.vegannews.co.kr/news/article.html?no=383557)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-10-28: 관련 글(에너지바우처) 링크를 추가했습니다. 본문 내용은 바꾸지 않았습니다.

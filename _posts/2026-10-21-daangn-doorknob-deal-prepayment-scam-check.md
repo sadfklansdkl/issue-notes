@@ -21,9 +21,15 @@ tags: [당근, 문고리거래, 중고거래사기, 선입금, 사기조회]
 
 ![문고리 거래 송금 전 확인 7가지]({{ '/assets/img/2026-10-21-daangn-doorknob-deal-prepayment-scam-check/card1.png' | relative_url }})
 
+## 함께 보면 좋은 글
+- [놀이의발견 개인정보 유출 문자 받았다면? 지금 할 일 6가지]({{ '/2026/10/23/noriui-balgyeon-data-leak-what-to-do/' | relative_url }})
+
 ## 출처
 - [뉴시스 — 직거래하자더니 입금부터?…당근마켓 '문고리 거래' 주의보 (2026-10-21)](https://www.newsis.com/view/NISX20261020_0003833120)
 - [경찰청 사이버안전지킴이 — 거래대상 전화/계좌번호 등 사이버 사기피해 신고여부 확인](https://cyberbureau.police.go.kr/prevention/sub7.jsp?mid=020600)
 - [대한민국 정책브리핑(과학기술정보통신부) — 사이버 사기 주의 (2025-01-21)](https://www.korea.kr/news/policyNewsView.do?newsId=148938831)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-10-28: 관련 글(개인정보 유출 뒤 할 일) 링크를 추가했습니다. 본문 내용은 바꾸지 않았습니다.

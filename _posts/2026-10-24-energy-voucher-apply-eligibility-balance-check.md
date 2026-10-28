@@ -28,9 +28,16 @@ tags: [에너지바우처, 에너지바우처신청, 에너지바우처대상, �
 
 ![에너지바우처 가구별 금액과 사용기간]({{ '/assets/img/2026-10-24-energy-voucher-apply-eligibility-balance-check/card2.png' | relative_url }})
 
+## 함께 보면 좋은 글
+- [보일러 처음 켜기 전 뭘 확인해야 할까? 첫 추위 난방 점검 체크리스트]({{ '/2026/10/20/first-cold-boiler-heating-checklist/' | relative_url }})
+- [근로장려금 언제 지급? 반기분 12월 17일·기한 후 신청 12월 1일 마감]({{ '/2026/10/25/earned-income-tax-credit-payment-date-late-application/' | relative_url }})
+
 ## 출처
 - [복지로(기후에너지환경부 발표) — 2026년도 에너지바우처 6월 15일부터 신청](https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1309922_1114.html)
 - [서울특별시 기후환경 — 에너지바우처 안내 (2026-08-13 수정)](https://news.seoul.go.kr/env/?p=570227)
 - [에너지바우처 누리집 — 잔액조회 안내](https://www.energyv.or.kr/info/balance_inquiry.do)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-10-28: 관련 글(보일러 점검, 근로장려금) 링크를 추가했습니다. 본문 내용은 바꾸지 않았습니다.
