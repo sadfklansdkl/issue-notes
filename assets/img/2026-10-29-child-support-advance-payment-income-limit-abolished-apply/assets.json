@@ -1,0 +1,13 @@
+{"hero": {"type": "screenshot", "url": "https://www.childsupport.or.kr/", "highlight": "양육비 선지급 신청", "site": "양육비이행관리원"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.childsupport.or.kr/lay1/S1T133C134/sublink.do", "highlight": "서식 다운로드", "site": "양육비이행관리원"}
+ ],
+ "hero_prompt": "English. A small child's yellow rain boots and a folded school backpack by an apartment entrance shoe rack, cool blue early-morning light from a frosted door window, low eye-level angle, muted teal and mustard palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "양육비 선지급 바뀐 점", "rows": [
+     ["소득기준", "폐지", "2026-10-29부터"],
+     ["지원 금액", "월 최대 20만원", "자녀 1인당"],
+     ["지원 기간", "만 18세까지", "양육비이행관리원"],
+     ["상담센터", "1644-6621", "평일 09~18시"]
+   ]}
+ ]}

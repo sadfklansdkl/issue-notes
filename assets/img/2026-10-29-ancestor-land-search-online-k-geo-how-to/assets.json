@@ -1,0 +1,12 @@
+{"hero": {"type": "commons", "file": "File:Korea countryside (rice paddies) near Camp Humphreys. (4972482888).jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://kgeop.go.kr/", "highlight": "조상땅찾기 바로가기", "site": "K-Geo 플랫폼"}
+ ],
+ "hero_prompt": "English. A weathered stone boundary marker half hidden in dry autumn grass at the edge of a terraced Korean rice field after harvest, late golden afternoon side light, wide low-angle shot, ochre and faded green palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "조상 땅 찾기 기준", "rows": [
+     ["온라인 대상", "2008-01-01 이후", "사망한 부모·배우자·자녀"],
+     ["서류 제출 생략", "2026-02-12", "정보 제공 동의만"],
+     ["상속인 수수료", "없음", "K-Geo·시군구청"]
+   ]}
+ ]}
