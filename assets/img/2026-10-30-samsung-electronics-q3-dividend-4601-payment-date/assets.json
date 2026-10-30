@@ -1,0 +1,6 @@
+{"hero": {"type": "screenshot", "url": "https://www.samsung.com/sec/ir/reports-disclosures/notices/", "highlight": "2026년 3분기 배당 기준일 안내", "site": "삼성전자 투자자 정보"},
+ "photos": [],
+ "hero_prompt": "English. A realistic photo-style view of a quiet bank branch interior in late afternoon, an empty row of teller counters with neat paper slips stacked in a tray in the foreground, long golden light through tall windows casting stripes on a grey stone floor, wide angle from waist height, warm amber and slate tones. No text, no letters, no numbers, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "삼성전자 3분기 배당", "rows": [["주당 배당금", "4,601원", "보통주·우선주 같음"], ["배당 기준일", "9월 30일", "이 날 주주명부 기준"], ["지급 예정일", "11월 27일", "10/29 이사회 결의"], ["배당금 총액", "30조30억원", "파이낸셜뉴스"]]}
+ ]}
