@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Korea-Seoul International Marathon-01.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://news.seoul.go.kr/culture/archives/535099", "highlight": "풀코스 구간 통제", "site": "서울시 문화분야 누리집"}
+ ],
+ "hero_prompt": "English. A realistic photo-style view of a wide empty multi-lane city boulevard in Seoul closed to cars, a long row of orange traffic cones and temporary barriers running down the center, tall office buildings and autumn ginkgo trees with yellow leaves on both sides, blue-hour dawn light just before sunrise, elevated view from a pedestrian overpass, cool blue and warm yellow tones. No text, no letters, no numbers, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "11월 1일 마라톤 통제", "rows": [
+     ["풀코스 전체", "07:20~13:54", "광화문→올림픽공원"],
+     ["광화문 출발 구간", "07:20~08:18", "서울시 안내"],
+     ["올림픽공원 도착", "09:10~13:54", "서울시 안내"],
+     ["10km 전체", "05:00~11:00", "상암→여의도공원"]
+   ]}
+ ]}
