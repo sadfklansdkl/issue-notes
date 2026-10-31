@@ -1,0 +1,11 @@
+{"hero": {"type": "screenshot", "url": "https://www.hanam.go.kr/sotong/contents.do?key=9283", "highlight": "배출신청", "site": "하남시"},
+ "photos": [],
+ "hero_prompt": "English. A realistic photo-style wide shot of an old wooden dresser and a worn office chair placed neatly beside a concrete wall at the edge of a Korean apartment complex parking area, early overcast morning, flat diffuse grey light, low angle from the ground, muted olive and concrete-grey tones, light mist. No text, no letters, no numbers, no stickers, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "대형폐기물·폐가전", "rows": [
+     ["대형 가전 무료 수거", "1대부터", "정책브리핑"],
+     ["소형 가전", "5개 이상", "일부 지역 기준"],
+     ["폐가전 예약", "1599-0903", "15990903.or.kr"],
+     ["대형폐기물 신고", "전날까지", "하남시 예"]
+   ]}
+ ]}
