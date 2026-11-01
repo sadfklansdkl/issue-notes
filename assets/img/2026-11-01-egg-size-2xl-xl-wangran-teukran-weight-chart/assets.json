@@ -1,0 +1,11 @@
+{"hero": {"type": "screenshot", "url": "https://www.mafra.go.kr/bbs/home/792/577982/artclView.do", "highlight": "2XL·XL로 확인하세요", "site": "농림축산식품부"},
+ "photos": [],
+ "hero_prompt": "English. A realistic photo-style macro shot of five brown chicken eggs of clearly different sizes lined up in a row from largest to smallest on a stainless steel bakery prep counter, a small flat digital kitchen scale with a blank dark display beside them, warm tungsten side light from the right casting long soft shadows, very low eye-level angle, cream, copper and brushed steel tones. No text, no letters, no numbers, no stamps on the eggs, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "계란 새 크기 이름", "rows": [
+     ["2XL (옛 왕란)", "68g 이상", "농식품부 축산법 시행규칙"],
+     ["XL (옛 특란)", "60~68g 미만", "무게 기준은 그대로"],
+     ["L (옛 대란)", "52~60g 미만", "M 44~52g 미만·S 44g 미만"],
+     ["옛 이름 함께 쓰기", "6개월", "2026년 5월 21일 시행부터"]
+   ]}
+ ]}
