@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Korea exchange.JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.nextrade.co.kr/", "highlight": "애프터마켓", "site": "넥스트레이드"}
+ ],
+ "hero_prompt": "English. Realistic photo-style wide shot of a city office district skyline at blue hour seen from across a river, rows of office tower windows lighting up one by one, a few lit commuter buses crossing a long bridge in the foreground, cool navy sky with warm amber window lights, slightly elevated angle. No text, no letters, no numbers, no screens with charts, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "주식 거래시간", "rows": [
+     ["KRX 정규장", "09:00~15:30", "한국거래소"],
+     ["KRX 애프터마켓", "16:00~20:00", "2026-09-14부터"],
+     ["NXT 애프터마켓", "15:40~20:00", "넥스트레이드"],
+     ["가격제한폭", "±30%", "정규장과 같음"]
+   ]}
+ ]}
