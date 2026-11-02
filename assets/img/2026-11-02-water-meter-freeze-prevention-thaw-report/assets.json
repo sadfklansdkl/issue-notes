@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Two blue water meters on a matte red painted brick facade with pipes in Seoul.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://arisu.seoul.go.kr/", "highlight": "민원신청", "site": "서울아리수본부"}
+ ],
+ "hero_prompt": "Photorealistic close-up of an open underground water meter box beside a Korean low-rise villa entrance on a frosty winter dawn, the meter wrapped in old knitted sweaters and bubble wrap, thin frost crystals on the metal lid, cold blue early light with a single warm streetlamp glow, low angle from ground level. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "서울 동파예보 단계", "rows": [
+     ["1단계 관심", "-5℃ 이상", "최저기온 · 서울시"],
+     ["2단계 주의", "-5~-10℃", "최저기온 · 서울시"],
+     ["3단계 경계", "-10~-15℃", "-10℃ 밑이면 24시간 비상"],
+     ["4단계 심각", "-15℃ 미만", "2일 이상 지속 예보"]
+   ]}
+ ]}
