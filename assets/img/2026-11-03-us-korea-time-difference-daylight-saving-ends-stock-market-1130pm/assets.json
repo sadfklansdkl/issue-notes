@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:New York Stock Exchange August 2017 04.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst", "highlight": "November 1", "site": "미국 국립표준기술연구소(NIST)"}
+ ],
+ "hero_prompt": "English. A row of four analog wall clocks on a plain white airport terminal wall at night, each showing a different hour, one clock hand caught mid-movement backward, cool blue ambient light, shot from a low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "11월 미국 시차 정리", "rows": [
+     ["뉴욕(동부) 시차", "14시간", "서머타임 해제 후 · YTN"],
+     ["LA(서부) 시차", "17시간", "서머타임 해제 후 · YTN"],
+     ["미국 주식 개장", "밤 11시 30분", "한국 시간 · NYSE 현지 9:30"],
+     ["다시 13시간", "2027.3.14", "3월 둘째 일요일 · NIST"]
+   ]}
+ ]}
