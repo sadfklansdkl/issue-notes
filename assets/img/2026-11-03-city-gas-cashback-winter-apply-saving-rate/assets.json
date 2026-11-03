@@ -1,0 +1,13 @@
+{"hero": {"type": "screenshot", "url": "https://k-gascashback.or.kr/", "highlight": "회원가입 안내", "site": "도시가스 절약 캐시백"},
+ "photos": [
+   {"type": "screenshot", "url": "https://k-gascashback.or.kr/ko/intro/cashback/", "highlight": "캐시백 지급안내", "site": "도시가스 절약 캐시백"}
+ ],
+ "hero_prompt": "English. Close-up of a residential city gas meter with yellow gas pipe mounted on a light gray concrete wall of a Korean apartment balcony, cold blue winter morning light from the side, frost on the window glass in soft focus background, eye-level framing. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "도시가스 캐시백 단가", "rows": [
+     ["3% 이상 절감", "㎥당 50원", "10% 미만까지, 공식 누리집"],
+     ["10% 이상 절감", "㎥당 100원", "20% 미만까지"],
+     ["20~30% 절감", "㎥당 200원", "30%까지만 인정"],
+     ["고객센터", "1522-2011", "도시가스 절약 캐시백"]
+   ]}
+ ]}
