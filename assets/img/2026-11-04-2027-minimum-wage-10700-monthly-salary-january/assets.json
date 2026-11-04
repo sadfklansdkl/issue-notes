@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Ministry of Employment & Labor (South Korea).JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.moel.go.kr/index.do", "highlight": "최저임금 모의계산기", "site": "고용노동부"}
+ ],
+ "hero_prompt": "English. A small Korean convenience store counter at dusk seen from outside through the glass, warm interior light against a deep blue evening street, an empty cash register area and a stack of paper receipts, wide shot. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "2027 최저임금", "rows": [
+     ["시급", "1만700원", "2027년 1월 1일부터"],
+     ["월 환산", "223만6300원", "주 40시간·월 209시간"],
+     ["인상", "380원(3.7%)", "2026년 1만320원 대비"],
+     ["적용", "전 업종 동일", "고용노동부 8월 5일 고시"]
+   ]}
+ ]}

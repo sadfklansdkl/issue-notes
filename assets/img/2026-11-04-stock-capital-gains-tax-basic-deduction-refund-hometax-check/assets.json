@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:South Korea National Tax Service(NTS).jpg"},
+ "photos": [],
+ "hero_prompt": "English. A neat stack of printed tax refund notice envelopes on a post office counter in Korea, soft overhead fluorescent light, shallow depth of field, cool blue-grey tones, viewed from a low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "주식 양도세 직권환급", "rows": [
+     ["환급 대상", "4,687명", "2021~2025년 귀속 신고분"],
+     ["환급 총액", "21억원", "11월 3일 환급, 국세청"],
+     ["1인당 최대", "79만원", "신청 없이 자동"],
+     ["지방소득세", "10%", "다음 달 자동 환급"]
+   ]}
+ ]}
