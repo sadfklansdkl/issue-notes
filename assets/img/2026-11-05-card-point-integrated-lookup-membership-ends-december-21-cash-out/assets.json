@@ -1,0 +1,13 @@
+{"hero": {"type": "screenshot", "url": "https://www.cardpoint.or.kr/", "highlight": "통합조회/계좌입금/기부", "site": "여신금융협회 카드포인트 통합조회"},
+ "photos": [
+   {"type": "screenshot", "url": "https://m.cardpoint.or.kr/", "highlight": "통합조회 & 계좌입금", "site": "여신금융협회 카드포인트 통합조회"}
+ ],
+ "hero_prompt": "English. A realistic photo of an open worn brown leather bifold wallet standing upright on a subway seat, several plain blank colored plastic payment cards fanned out of its slots, warm evening fluorescent light of a train carriage, shallow depth of field with blurred window lights behind, shot from slightly above at a diagonal angle, muted teal and amber tones. No text, no letters, no numbers, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "카드포인트 통합조회", "rows": [
+     ["회원제 종료", "12월 21일", "비회원 본인인증으로 일원화"],
+     ["회원정보 파기", "12월 23일", "여신금융협회, 일괄 파기"],
+     ["현금화 비율", "1포인트=1원", "1포인트부터 계좌입금"],
+     ["포인트 유효기간", "보통 5년", "1~3년·무제한도 있음"]
+   ]}
+ ]}
