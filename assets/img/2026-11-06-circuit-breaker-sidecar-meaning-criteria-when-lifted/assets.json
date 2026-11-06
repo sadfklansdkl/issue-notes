@@ -1,0 +1,13 @@
+{"hero": {"type": "screenshot", "url": "https://regulation.krx.co.kr/contents/RGL/03/03010402/RGL03010402.jsp", "highlight": "Circuit Breakers", "site": "한국거래소"},
+ "photos": [
+   {"type": "screenshot", "url": "https://kind.krx.co.kr/external/2026/03/23/000098/20260323000344/99405.htm", "highlight": "사이드카", "site": "한국거래소 KIND"}
+ ],
+ "hero_prompt": "English. Close-up of a large red emergency stop mushroom button on a grey brushed-steel industrial control panel, cool blue side light from the left, low three-quarter angle, shallow depth of field. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "서킷브레이커·사이드카", "rows": [
+     ["서킷 1단계", "8% 하락", "1분 지속 시 20분 중단"],
+     ["서킷 2단계", "15% 하락", "1단계보다 1% 더 하락"],
+     ["서킷 3단계", "20% 하락", "그날 장 종료"],
+     ["사이드카", "선물 5%", "프로그램매매 5분 정지"]
+   ]}
+ ]}

@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Samsung Wedding Hall.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A row of empty white banquet chairs with ivory ribbon bows lined up in a bright, empty Korean wedding hall aisle before guests arrive, soft overhead chandelier light, shallow depth of field, eye-level view down the aisle. No text, no letters, no logos, no brand names, no people.",
+ "cards": [
+   {"type": "numbers", "title": "스드메 가격 공개 점검", "rows": [
+     ["점검 대상", "568곳", "예식장 418·대행 150"],
+     ["온라인 공개", "53.0%", "301곳, 공정위 11-05"],
+     ["과태료 부과", "17곳", "합계 1560만원"],
+     ["과태료 상한", "최대 1억원", "고시 미이행 시"]
+   ]}
+ ]}
