@@ -47,6 +47,10 @@ tags: [동파 예방, 수도계량기, 겨울 준비]
 
 ![숫자 한 장 요약]({{ '/assets/img/2026-11-02-water-meter-freeze-prevention-thaw-report/card1.png' | relative_url }})
 
+## 함께 보면 좋은 글
+- [한파주의보 기준 몇 도? 영하 아니어도 내려지는 이유와 한파경보 차이]({{ '/2026/11/07/cold-wave-advisory-criteria-temperature-warning-difference/' | relative_url }})
+- [도시가스 캐시백 올겨울 신청 언제? 3%만 아껴도 ㎥당 50~200원]({{ '/2026/11/03/city-gas-cashback-winter-apply-saving-rate/' | relative_url }})
+
 ## 출처
 - [서울특별시 환경분야 누리집 — '보온 강화+시민 참여'로 수도계량기 동파 이중 예방 나선다 (2025-11-14)](https://news.seoul.go.kr/env/archives/565606)
 - [내 손안에 서울 — 한파에 '수도계량기' 지키는 3가지 방법…동파 신고는 여기로 (2026-01-05)](https://mediahub.seoul.go.kr/archives/2016694)
@@ -55,3 +59,6 @@ tags: [동파 예방, 수도계량기, 겨울 준비]
 - [내 손안에 서울 — 시민기자 수도계량기 동파 예방 기사 (2021-11-22)](https://mediahub.seoul.go.kr/archives/2003230)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-11-07: 관련 글(한파주의보 기준·도시가스 캐시백) 링크를 추가했습니다. 본문 내용은 바꾸지 않았습니다.
