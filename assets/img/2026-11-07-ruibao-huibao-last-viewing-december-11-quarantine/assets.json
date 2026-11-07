@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:20240115 아이바오, 쌍둥바오.jpg"},
+ "photos": [
+   {"type": "commons", "file": "File:Everland Panda World 20240115 01.jpg"}
+ ],
+ "hero_prompt": "English. A quiet indoor zoo enclosure glass wall in soft winter afternoon light, bamboo branches piled on a wooden platform behind the glass, empty visitor railing in the foreground, cool blue-green tones, eye-level wide shot. No animals' faces in close-up, no text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "쌍둥이 판다 일정", "rows": [
+     ["슈바오 공개", "10월 30일", "판다월드 (삼성물산)"],
+     ["쌍둥이 검역 시작", "11월 13일", "약 한 달, 제한 관람"],
+     ["마지막 공개", "12월 11일", "예정, 변동 가능"],
+     ["중국 이동", "12월 셋째 주", "계획, 날짜 미확정"]
+   ]}
+ ]}

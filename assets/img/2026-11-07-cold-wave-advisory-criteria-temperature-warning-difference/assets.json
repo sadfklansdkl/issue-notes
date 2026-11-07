@@ -1,0 +1,11 @@
+{"hero": {"type": "screenshot", "url": "https://www.weather.go.kr/w/forecast/guide/standard.do", "highlight": "한파", "site": "기상청 날씨누리"},
+ "photos": [],
+ "hero_prompt": "English. Frost crystals on a residential apartment balcony railing at dawn, pale pink sunrise over a Korean city skyline in soft focus, breath-like mist, low angle close-up, cold blue and pink palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "한파특보 기준", "rows": [
+     ["주의보 지속", "영하 12도", "이하 2일 이상 (기상청)"],
+     ["주의보 급락", "10도↓", "3도 이하·평년보다 3도↓"],
+     ["경보 지속", "영하 15도", "이하 2일 이상 (기상청)"],
+     ["경보 급락", "15도↓", "3도 이하·평년보다 3도↓"]
+   ]}
+ ]}
