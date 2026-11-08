@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:한국거래소 2025.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A quiet stock exchange trading floor area in Seoul at early morning, empty office desks with dark monitors, cool blue window light, wide shot from a low angle. No text, no letters, no numbers on screens, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "신용융자 담보비율 면제", "rows": [
+     ["유지 의무 면제", "140%", "11월 9일부터 3개월"],
+     ["NH·미래에셋 기준", "130%", "미래에셋은 국내 주식만"],
+     ["신용융자 잔고", "28조6446억원", "11월 4일 기준"],
+     ["고점 대비", "25.9%↓", "6월 24일 38조6328억원"]
+   ]}
+ ]}

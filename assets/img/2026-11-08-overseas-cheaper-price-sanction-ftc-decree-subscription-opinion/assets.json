@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Korea Fair Trade Commission(South Korea).JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/89344", "highlight": "의견제출", "site": "국민참여입법센터"}
+ ],
+ "hero_prompt": "English. A row of shopping-cart style price tags hanging on an empty store shelf next to a world map pinned on a corkboard, warm evening tungsten light, close-up from the side. No text, no letters, no numbers, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "가격 남용 시행령 개정안", "rows": [
+     ["규정 손질", "25년 만", "2001년 이후 처음"],
+     ["공정위가 든 예", "1만원 vs 2만원", "해외 vs 국내 구독료"],
+     ["의견 마감", "12월 16일", "국민참여입법센터"],
+     ["개정 목표", "내년 상반기", "법제처 심사 뒤"]
+   ]}
+ ]}
