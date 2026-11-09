@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Government Complex Seoul Main Building.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A row of empty bank-style service counters seen at a low side angle in a bright modern Korean government office lobby at dusk, cool blue window light mixed with warm ceiling lamps, a single paper ticket number machine in soft focus. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "가상자산 과세 유예안", "rows": [
+     ["시행 시점", "2029년", "2027년 1월에서 연기, 국회 통과 필요"],
+     ["손실 이월공제", "3년", "2029년 손실은 2032년까지"],
+     ["기본공제", "250만원", "이월공제보다 먼저 적용"],
+     ["기존 보유분 취득가액", "2028.12.31", "그날 시가 또는 실제 취득가액"]
+   ]}
+ ]}
