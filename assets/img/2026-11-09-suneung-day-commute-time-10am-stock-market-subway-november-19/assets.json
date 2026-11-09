@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Puhung High School main gate during the South Korea College Scholastic Ability Test, 2018 (2).jpg"},
+ "photos": [],
+ "hero_prompt": "English. Early morning winter street in front of a Korean high school gate, police officer silhouette directing traffic far away, cold blue dawn light, wide shot from across the road, empty crosswalk. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "수능날 11월 19일", "rows": [
+     ["출근 협조 요청", "10시 이후", "관공서·기업체 (교육부)"],
+     ["지하철 증차", "6:00~8:10", "수도권 (교육부)"],
+     ["주식 정규장", "10:00~16:30", "1시간 순연 (거래소)"],
+     ["항공기 조정", "13:10~13:35", "영어 듣기 시간"]
+   ]}
+ ]}
