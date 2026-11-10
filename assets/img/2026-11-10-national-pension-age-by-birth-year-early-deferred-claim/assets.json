@@ -1,0 +1,11 @@
+{"hero": {"type": "screenshot", "url": "https://www.nps.or.kr/", "highlight": "개인민원", "site": "국민연금공단"},
+ "photos": [],
+ "hero_prompt": "English. A row of rural Korean village mailboxes on a wooden post beside a narrow country road in late autumn afternoon, golden low sunlight, persimmon tree with orange fruit behind, one mailbox door slightly open with a plain blank envelope inside, side view at waist height. No text, no letters, no numbers, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "국민연금 받는 나이", "rows": [
+     ["1961~64년생", "만 63세", "국민연금공단"],
+     ["1965~68년생", "만 64세", "국민연금공단"],
+     ["1969년생부터", "만 65세", "국민연금공단"],
+     ["조기 / 연기 1년당", "-6% / +7.2%", "최대 5년, SBS Biz·공단"]
+   ]}
+ ]}
