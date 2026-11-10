@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Korean shelter sign.JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://news.seoul.go.kr/safe/archives/513997", "highlight": "비상대비물품 확인", "site": "서울특별시 안전분야 누리집"}
+ ],
+ "hero_prompt": "English. A packed hiking backpack standing upright beside an apartment front door on a tiled entryway floor, a flashlight, a small radio, bottled water and a folded silver emergency blanket placed next to it, cool early-morning daylight from a frosted window, eye-level shot, muted blue-grey palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "생존배낭 기준 숫자", "rows": [
+     ["생존배낭", "2~3일분", "행정안전부 2026 행동요령"],
+     ["배낭 기본 단위", "72시간", "강동구 안내"],
+     ["집 비축 식량·식수", "30일분", "도봉구 안내"],
+     ["식수(영국 권고)", "1인 하루 3L", "영국 정부"]
+   ]}
+ ]}
