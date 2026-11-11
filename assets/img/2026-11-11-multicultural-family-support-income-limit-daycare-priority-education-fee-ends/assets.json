@@ -1,0 +1,11 @@
+{"hero": {"type": "screenshot", "url": "https://www.familynet.or.kr/", "highlight": "내 주변 센터찾기", "site": "가족센터(한국건강가정진흥원)"},
+ "photos": [],
+ "hero_prompt": "English. A low wooden bookshelf of colorful children's picture books and a small globe in the reading corner of a Korean community family center, seen from a child's eye level, soft overcast daylight from a tall side window, muted pastel palette with one warm orange accent. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "다문화 지원 숫자", "rows": [
+     ["서울 우대사업", "26개 중 20개", "소득 기준 없음 · 서울시 1차 조사"],
+     ["어린이집 1순위", "100점", "맞벌이·3자녀 200점 · 교육부"],
+     ["교육활동비(고)", "연 60만원", "2027년부터 종료 · 성평등부"],
+     ["안심 산후조리원", "125만원", "2주 · 일반 250만원 · 서울시"]
+   ]}
+ ]}
