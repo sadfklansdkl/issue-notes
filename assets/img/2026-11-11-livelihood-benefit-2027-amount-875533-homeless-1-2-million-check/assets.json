@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Jingwan-dong Community Service Center 20220612 001.jpg"},
+ "photos": [],
+ "hero_prompt": "English. Exterior of a modest Korean neighborhood community service center building on an overcast late-autumn morning, empty bicycle rack and fallen ginkgo leaves on the pavement, eye-level street view, muted grey and yellow palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "생계급여 한눈에", "rows": [
+     ["1인 최대 2027년", "87만5533원", "기준 중위소득 32%"],
+     ["1인 최대 2026년", "82만556원", "올해 기준"],
+     ["4인 최대 2027년", "221만7563원", "중앙생활보장위원회 의결"],
+     ["서울 1인 주거 상한", "36만9천원", "2026년 기준임대료"]
+   ]}
+ ]}
