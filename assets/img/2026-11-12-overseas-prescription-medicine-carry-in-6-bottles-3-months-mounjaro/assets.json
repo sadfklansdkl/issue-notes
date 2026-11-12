@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:인천국제공항 세관검색대 01.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50487", "highlight": "휴대 반입", "site": "식품의약품안전처"}
+ ],
+ "hero_prompt": "English. Close-up of an open travel suitcase on an airport inspection belt under cool white overhead light, a small zip pouch with medicine boxes and a pharmacy paper bag inside, shallow depth of field, blue-grey tones, viewed from a low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "해외 처방약 반입 기준", "rows": [
+     ["시행일", "11월 12일", "식약처·관세청 2026년"],
+     ["기본 한도", "총 6병", "정식 허가·처방·구매 약"],
+     ["6병 넘을 때", "3개월분", "용법상 복용량 이내"],
+     ["주 1회 주사제", "12개", "위고비·마운자로 등"]
+   ]}
+ ]}
