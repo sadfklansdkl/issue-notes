@@ -44,8 +44,14 @@ tags: [법원경매, 기일입찰표, 입찰표작성]
 
 ![숫자 한 장 요약]({{ '/assets/img/2026-11-01-court-auction-bid-form-change-november-2-zero-mistake/card1.png' | relative_url }})
 
+## 함께 보면 좋은 글
+- [전세사기 최소보장제 대상은? 11월 13일 시행, 보증금 3분의 1 계산법과 LH 신청 방법]({{ '/2026/11/13/jeonse-fraud-minimum-guarantee-one-third-who-how-to-apply-lh/' | relative_url }})
+
 ## 출처
 - [세계일보 — ‘0’ 표기 잘못해 18억원 아파트 172억원에 낙찰…결국 경매 입찰표 바뀐다 (2026-10-30)](https://www.segye.com/newsView/20261030507237)
 - [서울신문 — ‘10억 적으려다 100억’ 실수 막는다…법원 경매 입찰표 양식 개선 (2026-10-30)](https://www.seoul.co.kr/news/society/law/2026/10/30/20261030500178)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-11-13: 관련 글(전세사기 최소보장제) 링크를 추가했습니다. 본문 내용은 바꾸지 않았습니다.
