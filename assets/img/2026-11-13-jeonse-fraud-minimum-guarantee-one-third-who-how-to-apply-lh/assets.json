@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:한국토지주택공사(LH) 인천지역본부 외관 2024.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975298", "highlight": "최소보장제", "site": "대한민국 정책브리핑"}
+ ],
+ "hero_prompt": "English. A quiet residential alley lined with low-rise red-brick multi-family villa buildings in a Korean city at dusk, blue hour light, mailboxes and a closed metal gate in the foreground, shot from a low angle with a wide lens. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "전세사기 최소보장제", "rows": [
+     ["보장 기준", "보증금 3분의 1", "부족분을 국가가 지급"],
+     ["보증금 1억·회수 0원", "3333만 원", "노컷뉴스 예시"],
+     ["결과 통지", "90일 이내", "보완 시 30일 연장"],
+     ["기존 피해자 기한", "2029.11.13", "시행 전 결정된 피해자"]
+   ]}
+ ]}
