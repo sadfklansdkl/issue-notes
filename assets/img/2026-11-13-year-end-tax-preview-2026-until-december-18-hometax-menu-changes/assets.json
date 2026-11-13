@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:South Korea National Tax Service(NTS).jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974171", "highlight": "연말정산 미리보기", "site": "대한민국 정책브리핑"}
+ ],
+ "hero_prompt": "English. Close-up of a stack of paper receipts and a printed annual pay statement clipped together beside a calculator on a grey office desk under cool white fluorescent light, top-down view, muted blue and grey palette, winter office mood. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "연말정산 미리보기", "rows": [
+     ["이용 마감", "12월 18일", "2026.10.28 시작 · 국세청"],
+     ["카드 한도(자녀 없음)", "300만 원", "총급여 7천만 원 이하"],
+     ["자녀 2명 이상", "400만 원", "총급여 7천만 원 이하"],
+     ["고향사랑 10만~20만", "40%", "20만 원 초과분 15%"]
+   ]}
+ ]}
