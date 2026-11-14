@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:한국산업인력공단 인천지사 가을풍경2 2024 01.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.q-net.or.kr/man001.do?gSite=Q", "highlight": "수험자가이드", "site": "큐넷"}
+ ],
+ "hero_prompt": "English. A quiet empty Korean certification exam classroom seen from the back corner at early morning, rows of plain desks with only an analog wristwatch and a pencil on the nearest desk, cool blue window light, shallow depth of field. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "시험 부정행위 숫자", "rows": [
+     ["공단 시험 부정행위", "40건", "산업인력공단 2026년 자료"],
+     ["AI 스마트안경", "5건", "모두 수사 의뢰"],
+     ["토익 응시 제한", "최대 5년", "YBM, 성적 무효와 함께"],
+     ["2027 수능", "다음 해 응시 박탈", "교육부, 착용만 해도 무효"]
+   ]}
+ ]}
