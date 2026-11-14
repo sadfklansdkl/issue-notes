@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Side dishes at Korean Restaurant(Kimbapnara).jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.foodsafetykorea.go.kr/portal/complain/complainIntro.do", "highlight": "1399", "site": "식품안전나라"}
+ ],
+ "hero_prompt": "English. Close-up of a stainless steel restaurant kitchen counter at night under cool fluorescent light, a row of empty small white banchan dishes stacked beside a sink, seen from a low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "반찬 재사용 처벌", "rows": [
+     ["1차 행정처분", "영업정지 15일", "식품위생법 시행규칙"],
+     ["4차 행정처분", "허가 취소·폐쇄", "2차 2개월·3차 3개월"],
+     ["형사처벌", "3년·3천만 원 이하", "식품위생법 제97조"],
+     ["신고 전화", "1399 (무료)", "평일 9~18시, 식품안전나라"]
+   ]}
+ ]}
