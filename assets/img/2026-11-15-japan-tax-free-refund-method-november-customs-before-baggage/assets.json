@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Departure lobby of Tokyo-Narita Airport Terminal 2.JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.japan.travel/ko/kr/topic/2026nyeon-11weol-1ilbuteo-sobise-myeonse-jedoga-byeongyeongdoebnida/", "highlight": "리펀드 방식", "site": "일본정부관광국"}
+ ],
+ "hero_prompt": "English. A row of self-service customs kiosks with blank glowing screens beside an empty airport baggage check-in counter in a bright, high-ceilinged Japanese departure hall at early morning, cool blue daylight from tall windows, wide-angle low viewpoint, a small paper shopping bag resting on a hard-shell carry-on suitcase in the foreground. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "일본 면세 새 기준", "rows": [
+     ["최소 구매액", "세전 5,000엔", "같은 매장·하루 합산"],
+     ["세관 확인 기한", "90일", "구매 다음 날부터"],
+     ["소모품 상한", "폐지", "기존 하루 50만 엔"],
+     ["세전 10만 엔 상품", "11만 엔", "먼저 결제 후 환급"]
+   ]}
+ ]}
