@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Mercado Mangwon en Seúl.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.8899.or.kr/", "highlight": "공지사항", "site": "노란우산"}
+ ],
+ "hero_prompt": "English. A row of small neighborhood shop shutters half-raised at dawn on a quiet Korean alley, cool blue morning light, one yellow umbrella leaning against a shop door, wide shot at eye level. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "노란우산 유출 요약", "rows": [
+     ["재적 가입자", "약 192만명", "중기중앙회 · 대상자 수 미공개"],
+     ["비정상 접근", "11월 11일", "14일 홈페이지 공지"],
+     ["주민번호 노출", "앞 7자리", "나머지 뒷자리는 암호화"],
+     ["문의·피해 접수", "1666-9988", "노란우산 고객센터"]
+   ]}
+ ]}
