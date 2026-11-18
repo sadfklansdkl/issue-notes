@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Sashimi set.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=670&ccfNo=3&cciNo=1&cnpClsNo=2", "highlight": "가까운 보건소에 신고하세요", "site": "찾기쉬운 생활법령정보"}
+ ],
+ "hero_prompt": "English. Wide shot of an empty Korean seafood restaurant at closing time at night, glowing blue fish tanks along one wall, stacked chairs, wet tiled floor reflecting the light, cool color palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "허위 의심 식중독 전화 사례", "rows": [
+     ["여수 횟집 송금", "20만원", "2026년 · 뉴시스"],
+     ["서울 식당 요구", "약 20만원", "2026년 · 위키트리"],
+     ["속초 식당 요구", "12만원", "2024년 · 데일리안"],
+     ["전국 음식점 277회", "약 5072만원", "2022~2023년 · 파이낸셜뉴스"]
+   ]}
+ ]}
