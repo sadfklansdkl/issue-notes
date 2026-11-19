@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Ferris wheel at Everland Amusement Park in Yongin, South Korea.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A quiet Korean amusement park at blue hour in early winter, an empty carousel glowing with warm lights in the middle distance, bare trees and a clear cold sky behind it, wide low-angle composition, teal and amber tones. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "수험표 할인 마감일", "rows": [
+     ["샤브올데이 1만3900원", "11월 22일", "수험표 실물, 수험생 본인"],
+     ["CGV 영화 7000원", "11월 30일", "현장 매표소 인증"],
+     ["메가박스 영화 7000원", "12월 2일", "매표소 인증 또는 앱 쿠폰"],
+     ["에버랜드 종일권 2만원", "12월 31일", "스마트 예약 필수"]
+   ]}
+ ]}
