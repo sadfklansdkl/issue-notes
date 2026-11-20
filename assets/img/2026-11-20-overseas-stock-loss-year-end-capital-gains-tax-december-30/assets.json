@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:New York Stock Exchange Exterior.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A Korean apartment balcony at dusk in winter, a closed laptop and a paper desk calendar turned to December resting on a small folding stool, cold blue evening light from the window mixing with warm indoor lamp light, low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "해외주식 양도세 연말", "rows": [
+     ["기본공제", "250만원", "한 해 이익·손실 합산 뒤"],
+     ["세율", "22%", "양도세 20%+지방세 2%"],
+     ["올해분 매도 마감", "12월 30일", "한국시간 매매분, 증권사 안내"],
+     ["신고·납부", "2027년 5월", "올해 매매분"]
+   ]}
+ ]}
