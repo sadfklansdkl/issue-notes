@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:경원대로 768 삼보빌딩 주안 농협 2025.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://news.seoul.go.kr/gov/archives/572559", "highlight": "고향사랑기부제", "site": "서울특별시"}
+ ],
+ "hero_prompt": "English. A small rural Korean farmers' market stall at early morning with crates of local specialty produce such as apples, dried persimmons and rice bags, soft blue dawn light, wide low-angle shot, mountains faintly in the background. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "고향사랑기부 공제율", "rows": [
+     ["10만원까지", "전액", "소득세+지방소득세"],
+     ["10만~20만원", "44%", "국세청 표기 40%"],
+     ["20만원 초과분", "16.5%", "특별재난지역 33%"],
+     ["답례품", "30% 이내", "12월 31일 기부분까지"]
+   ]}
+ ]}
