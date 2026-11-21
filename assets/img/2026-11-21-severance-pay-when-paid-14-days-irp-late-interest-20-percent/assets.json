@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Busan Regional Employment and Labor Office.JPG"},
+ "photos": [
+   {"type": "screenshot", "url": "https://moel.go.kr/minwon/petition/fraud_list.do", "highlight": "온라인민원신청", "site": "고용노동부"}
+ ],
+ "hero_prompt": "English. A row of empty office lockers and a cardboard moving box on a gray carpet in a Korean office corridor at dusk, cool fluorescent light mixed with orange window glow, low eye-level shot. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "퇴직금 핵심 숫자", "rows": [
+     ["지급 기한", "14일", "퇴직한 날부터 · 퇴직급여법 9조"],
+     ["받을 자격", "1년·주15시간", "계속근로·4주 평균"],
+     ["일반 계좌 예외", "300만원 이하", "55세 이후 퇴직 등"],
+     ["늦을 때 이자", "연 20%", "중간정산 제외 · 대법원"]
+   ]}
+ ]}
