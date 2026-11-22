@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:김치 김장 Making kimchi IMG 2917.jpg"},
+ "photos": [],
+ "hero_prompt": "English. Overhead view of a large red rubber basin on a Korean apartment balcony floor filled with salted napa cabbage halves being coated with red chili seasoning, plastic kimchi containers stacked beside it, cold overcast morning light, muted cool tones with vivid red accent. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "2026 김장 비용", "rows": [
+     ["직접 담그기", "33만9670원", "4인 가족 김치 3종·물가협회"],
+     ["절임배추 쓰면", "38만4730원", "직접보다 13.3%↑·물가협회"],
+     ["완제품 구매", "77만2620원", "직접의 2.27배·물가협회"],
+     ["전통시장 재료비", "28만8500원", "작년보다 14.8%↓·한국물가정보"]
+   ]}
+ ]}
