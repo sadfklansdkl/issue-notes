@@ -73,7 +73,7 @@ A. 성년 자녀는 자녀가 따로 자료 제공에 동의해야 조회할 수
 ## 한 줄 정리
 12월 18일 전에 홈택스에서 미리보기를 한 번 돌려 보고, 남은 연말 지출을 카드로 쓸지 다른 공제를 챙길지 정한다.
 
-함께 보면 좋은 글: [퇴직연금 연말정산 세액공제 한도는? IRP·연금저축 합쳐 900만원](/issue-notes/2026/11/20/irp-pension-savings-year-end-tax-credit-limit-900-december-31/) · [고향사랑기부 연말정산 얼마 돌려받나? 10만원 전액·20만원까지 44%](/issue-notes/2026/11/21/hometown-love-donation-year-end-tax-credit-44-percent-december-31/)
+함께 보면 좋은 글: [퇴직연금 연말정산 세액공제 한도는? IRP·연금저축 합쳐 900만원](/issue-notes/2026/11/20/irp-pension-savings-year-end-tax-credit-limit-900-december-31/) · [고향사랑기부 연말정산 얼마 돌려받나? 10만원 전액·20만원까지 44%](/issue-notes/2026/11/21/hometown-love-donation-year-end-tax-credit-44-percent-december-31/) · [카드 소득공제 25% 넘었는지 어떻게 보나? 넘었으면 12월은 체크카드](/issue-notes/2026/11/22/card-income-deduction-25-percent-threshold-check-debit-card-december/)
 
 ## 출처
 - [대한민국 정책브리핑(국세청) — 13월의 월급, 나는 얼마나 받을까? (2026-10-23)](https://www.korea.kr/news/policyNewsView.do?newsId=148974171)
@@ -83,3 +83,4 @@ _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니�
 ## 고친 기록
 - 2026-11-20: 연금저축·IRP 세액공제 글로 가는 링크를 더했습니다.
 - 2026-11-21: 고향사랑기부 연말정산 글로 가는 링크를 더했습니다.
+- 2026-11-22: 카드 소득공제 25% 문턱 글로 가는 링크를 더했습니다.
