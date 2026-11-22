@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Kookmin Bank Debit Card Nori.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974171", "highlight": "연말정산 미리보기", "site": "대한민국 정책브리핑(국세청)"}
+ ],
+ "hero_prompt": "English. Close-up of a supermarket checkout counter in Seoul at night under cool fluorescent light, a plain blank debit card resting beside a card payment terminal and a printed paper receipt, shallow depth of field, overhead angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "카드 소득공제 핵심", "rows": [
+     ["공제 시작 문턱", "총급여 25%", "넘긴 금액부터 공제"],
+     ["신용카드", "15%", "문턱 계산에 먼저 빠짐"],
+     ["체크카드·현금영수증", "30%", "국세청 연말정산 안내"],
+     ["기본 한도", "300만원", "총급여 7천만원 이하·국세청"]
+   ]}
+ ]}
