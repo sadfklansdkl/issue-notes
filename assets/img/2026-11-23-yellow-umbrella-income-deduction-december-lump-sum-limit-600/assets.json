@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Changnyeong market outside.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.8899.or.kr/cmnsCnts/view?menuId=C080301000", "highlight": "소득공제 절세효과", "site": "노란우산"}
+ ],
+ "hero_prompt": "English. A small Korean neighborhood shop entrance at dusk, roll-up metal shutter half lowered, warm interior light spilling onto a quiet alley pavement, an umbrella stand by the door, wide shot from across the alley, cool blue evening tones against amber light. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "노란우산 공제 한도", "rows": [
+     ["4천만원 이하", "600만원", "줄어드는 세금 39.6만~99만원"],
+     ["4천만~6천만원", "500만원", "82.5만~132만원"],
+     ["6천만~1억원", "400만원", "105.6만~154만원"],
+     ["1억원 초과(개인)", "200만원", "77만~99만원"]
+   ]}
+ ]}
