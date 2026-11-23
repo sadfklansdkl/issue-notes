@@ -55,7 +55,7 @@ A. 원금 한도 안에서 부분 인출은 되지만, 세액공제받은 금액
 ## 한 줄 정리
 오늘 앱에서 올해 연금저축·IRP 납입액을 보고, 900만원까지 남은 금액을 12월 31일 전에 나눠 넣을지 정하세요.
 
-함께 보면 좋은 글: [연말정산 미리보기 언제까지? 12월 18일 마감](/issue-notes/2026/11/13/year-end-tax-preview-2026-until-december-18-hometax-menu-changes/) · [고향사랑기부 연말정산 얼마 돌려받나? 10만원 전액·20만원까지 44%](/issue-notes/2026/11/21/hometown-love-donation-year-end-tax-credit-44-percent-december-31/) · [퇴직금 언제 들어오나요? 퇴사 후 14일 안에, IRP로 받는 이유](/issue-notes/2026/11/21/severance-pay-when-paid-14-days-irp-late-interest-20-percent/)
+함께 보면 좋은 글: [연말정산 미리보기 언제까지? 12월 18일 마감](/issue-notes/2026/11/13/year-end-tax-preview-2026-until-december-18-hometax-menu-changes/) · [고향사랑기부 연말정산 얼마 돌려받나? 10만원 전액·20만원까지 44%](/issue-notes/2026/11/21/hometown-love-donation-year-end-tax-credit-44-percent-december-31/) · [퇴직금 언제 들어오나요? 퇴사 후 14일 안에, IRP로 받는 이유](/issue-notes/2026/11/21/severance-pay-when-paid-14-days-irp-late-interest-20-percent/) · [노란우산 소득공제 12월에 몰아서 넣어도 되나? 한도 최대 600만원](/issue-notes/2026/11/23/yellow-umbrella-income-deduction-december-lump-sum-limit-600/)
 
 ## 출처
 - [매일신문 — 연금저축·IRP 세액공제 한도·12월 31일 마감 (2026-10-13)](https://www.imaeil.com/page/view/2026101310071052561)
@@ -67,3 +67,4 @@ _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니�
 
 ## 고친 기록
 - 2026-11-21: 고향사랑기부 연말정산 글과 퇴직금 지급 기한 글로 가는 링크를 더했습니다.
+- 2026-11-23: 노란우산 연말 납입 소득공제 글로 가는 링크를 더했습니다.

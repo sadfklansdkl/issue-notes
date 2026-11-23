@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Seoul Ring Expwy GuriNamyangju TGPA Parkinglot 4.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://news.seoul.go.kr/gov/archives/574407", "highlight": "자동차세", "site": "서울특별시"}
+ ],
+ "hero_prompt": "English. Early winter morning in a Korean apartment complex outdoor parking lot, rows of ordinary sedans lightly frosted, low pale sun, wide eye-level shot, cool blue and soft gold tones. No text, no letters, no logos, no brand names, no license plates readable, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "자동차세 연납 할인", "rows": [
+     ["1월 16~31일", "약 4.6%", "1년 세금 대비, 지방세법 산식"],
+     ["3월", "약 3.8%", "남은 기간만 5% 공제"],
+     ["6월", "2.5%", "하반기분 × 5%"],
+     ["9월", "약 1.3%", "늦을수록 할인 줄어듦"]
+   ]}
+ ]}

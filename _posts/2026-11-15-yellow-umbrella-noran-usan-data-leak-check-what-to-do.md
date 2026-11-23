@@ -57,6 +57,7 @@ A. 공격에 쓰인 IP를 막고 조회 화면 접근 통제를 강화했으며,
 ## 함께 보면 좋은 글
 - [기프티콘 개인정보 유출, 나도 해당되나? SK플래닛·기프티엘 쿠폰과 지금 할 일]({{ '/2026/10/30/gifticon-data-leak-sk-planet-giftil-what-to-do/' | relative_url }})
 - [놀이의발견 개인정보 유출 문자 받았다면? 지금 할 일 6가지]({{ '/2026/10/23/noriui-balgyeon-data-leak-what-to-do/' | relative_url }})
+- [노란우산 소득공제 12월에 몰아서 넣어도 되나? 올해분 12월 31일 마감, 한도 최대 600만원]({{ '/2026/11/23/yellow-umbrella-income-deduction-december-lump-sum-limit-600/' | relative_url }})
 
 ## 출처
 - [코리아리포트 — 노란우산, 개인정보 유출 의심…성명·주민번호 앞 7자리 등 포함 (2026-11-14)](https://www.koreareport.co.kr/news/articleView.html?idxno=54727)
@@ -68,3 +69,6 @@ A. 공격에 쓰인 IP를 막고 조회 화면 접근 통제를 강화했으며,
 - [경향신문 — '비대면 금융사기' 걱정된다면…'보안 서비스' 신청하세요 (2025-10-01)](https://www.khan.co.kr/article/202510011255001/)
 
 _이 글은 AI가 조사해 쓰고 별도 사실 확인 단계를 거쳤습니다. 작성일 기준 정보입니다._
+
+## 고친 기록
+- 2026-11-23: 노란우산 연말 납입 소득공제 글로 가는 링크를 더했습니다.
