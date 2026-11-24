@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Daejeon University 10 Main Gate.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.kosaf.go.kr/ko/notice.do?mode=view&seqNo=21272", "highlight": "지방 국립대", "site": "한국장학재단"}
+ ],
+ "hero_prompt": "English. A quiet Korean university campus path lined with ginkgo trees in late autumn, yellow leaves on the ground, a stone gate pillar in soft overcast morning light, wide shot from low angle, muted cool tones with yellow accents. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "2027 국가장학금", "rows": [
+     ["1차 신청 마감", "1월 7일 18시", "교육부·한국장학재단"],
+     ["가구간(옛 1~3)", "600만원", "연간 지원 예정액"],
+     ["나구간(옛 4~6)", "440만원", "연간 지원 예정액"],
+     ["다구간(옛 7~8)", "360만원", "라구간(옛 9) 100만원"]
+   ]}
+ ]}
