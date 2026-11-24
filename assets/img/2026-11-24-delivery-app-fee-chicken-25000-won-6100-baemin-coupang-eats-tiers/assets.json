@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Korean fried chicken 240206.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975748", "highlight": "최혜대우", "site": "정책브리핑"}
+ ],
+ "hero_prompt": "English. A red delivery scooter with an insulated food box parked under a single street lamp in a narrow Seoul residential alley at blue hour, wet asphalt reflecting light, low-angle wide shot, cool blue and warm orange palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "치킨 2만5천원 팔면", "rows": [
+     ["중개수수료", "1950원", "7.8% · 공정위 예시"],
+     ["결제수수료", "750원", "3%"],
+     ["점주 부담 배달비", "3400원", "상위 35% 구간"],
+     ["합계", "6100원", "판매가의 약 24.4%"]
+   ]}
+ ]}
