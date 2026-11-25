@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Daechi Dongbo Centreville Apartment Complex 1.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A quiet Korean government civil-service counter area seen from a low angle at dusk, empty waiting chairs in a row, a stack of blank paper forms and a single fountain pen on the counter, cool blue evening light through tall windows. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "이혼 재산분할 세금", "rows": [
+     ["받는 쪽 증여세", "원칙적 없음", "재산 청산으로 봄"],
+     ["주는 쪽 양도세", "없음", "위자료 대신이면 과세 가능"],
+     ["받는 쪽 취득세", "1.5%", "지방세법 제15조 특례"],
+     ["5억원 집 받으면", "750만원", "취득세 본세, 세율로 계산"]
+   ]}
+ ]}
