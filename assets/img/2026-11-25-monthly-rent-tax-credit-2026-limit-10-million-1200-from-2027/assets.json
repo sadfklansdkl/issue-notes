@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:2020-03-27 17.24.27 과천시 향촌6길 60 다세대주택.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=239025&mi=", "highlight": "월세액 세액공제", "site": "국세청"}
+ ],
+ "hero_prompt": "English. Exterior of a low-rise Korean multi-family villa building with small balconies on a narrow residential street at dusk, warm window lights, wide-angle from street level. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "올해 월세 세액공제", "rows": [
+     ["공제 한도", "연 1000만원", "2027년 월세부터 1200만(개편안)"],
+     ["총급여 5500만 이하", "17%", "국세청"],
+     ["5500만~8000만원", "15%", "국세청"],
+     ["최대 공제(17%)", "170만원", "한도 1000만원 × 17%"]
+   ]}
+ ]}
