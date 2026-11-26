@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Homeplus Yeongdeungpo branch 20181121 092503.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A large Korean hypermarket entrance at dusk with empty shopping carts lined up outside and closed glass doors, cool blue evening light, wide-angle street-level view, light drizzle on the pavement. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "홈플러스 휴업 정리", "rows": [
+     ["휴업 점포", "67개 전 점포", "대형마트 + 본사"],
+     ["온라인 배송 중단", "11월 26일", "이후 배송 주문 자동 취소"],
+     ["마트 영업 중단", "11월 27일", "M&A 마무리 때까지"],
+     ["영업 재개", "미정", "홈플러스 공지 11-25"]
+   ]}
+ ]}
