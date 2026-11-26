@@ -1,0 +1,13 @@
+{"hero": {"type": "commons", "file": "File:Bank of Korea 20070103.jpg"},
+ "photos": [
+   {"type": "screenshot", "url": "https://portal.kfb.or.kr/fingoods/cofix.php", "highlight": "COFIX", "site": "은행연합회 소비자포털"}
+ ],
+ "hero_prompt": "English. A row of empty bank teller counters seen from a low angle at dusk, cool blue fluorescent light, a single paper loan statement with blurred numbers lying on the counter, shallow depth of field. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "기준금리 인상과 내 이자", "rows": [
+     ["기준금리", "3.25%", "한국은행 11/26, +0.25%p"],
+     ["1억당 연 이자", "+25만원", "대출금리 0.25%p 오를 때"],
+     ["1인당 평균", "+29만6000원", "한은 자료, 1분기 기준"],
+     ["변동금리 재산정", "6개월마다", "변동형 주담대 보통 주기"]
+   ]}
+ ]}
