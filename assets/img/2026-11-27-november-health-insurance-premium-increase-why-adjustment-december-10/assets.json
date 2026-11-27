@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:231226 국민건강보험공단 본부.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A stack of unopened paper utility bills in white envelopes on a radiator shelf by a frosted apartment window in Korean late autumn, cool blue morning light, shallow depth of field, close-up from a low side angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "11월 건보료 재산정", "rows": [
+     ["오른 가구", "288만 (30.7%)", "지역가입자 936만 가구 중"],
+     ["내린 가구", "221만 (23.7%)", "국민건강보험공단"],
+     ["11월 평균 보험료", "9만5860원", "전년 같은 달보다 4.0%↑"],
+     ["납부·조정 기한", "12월 10일", "이 전에 신청해야 11월분부터"]
+   ]}
+ ]}
