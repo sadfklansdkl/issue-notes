@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:South Korea National Tax Service(NTS).jpg"},
+ "photos": [],
+ "hero_prompt": "English. A row of mid-rise Korean apartment towers seen from a riverside park at dusk in early winter, bare trees in the foreground, cool blue and warm window lights, wide-angle composition. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "1주택자 종부세 2026", "rows": [
+     ["1주택자 고지 인원", "23만1000명", "전년보다 53.0% 증가"],
+     ["1주택자 고지세액", "3660억원", "전년보다 118% 증가"],
+     ["납부 기한", "12월 15일", "분납은 300만원 초과 시"],
+     ["납부유예 신청", "12월 12일", "60세 이상·5년 보유"]
+   ]}
+ ]}
