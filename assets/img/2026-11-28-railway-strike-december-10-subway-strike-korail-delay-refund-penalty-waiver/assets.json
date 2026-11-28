@@ -1,0 +1,11 @@
+{"hero": {"type": "commons", "file": "File:Korail Line 1 train at Noryangjin.jpg"},
+ "photos": [],
+ "hero_prompt": "English. A Korean commuter train platform at dawn in winter, empty platform edge with yellow safety line, a commuter train approaching in the distance, cold blue light with warm platform lamps, wide low angle. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "철도 준법투쟁 숫자", "rows": [
+     ["준법투쟁 기간", "11.26~12.4", "철도노조 안전운행 투쟁"],
+     ["총파업 예고", "12.10 오전 9시", "무기한, 확정 아님"],
+     ["20분↑ 지연 전철", "445대", "11월 27일 코레일 집계"],
+     ["환불·변경 위약금", "면제", "쟁의행위 기간"]
+   ]}
+ ]}
