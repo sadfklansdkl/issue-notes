@@ -1,0 +1,13 @@
+{"hero": {"type": "screenshot", "url": "https://news.seoul.go.kr/economy/?p=95", "highlight": "알아두면 유용한 정보", "site": "서울시 경제"},
+ "photos": [
+   {"type": "screenshot", "url": "https://m.kbcard.com/CMN/DVIEW/MSEMCXHIACSC0046", "highlight": "내용증명양식", "site": "KB국민카드"}
+ ],
+ "hero_prompt": "Photorealistic overhead shot of a Korean post office counter under cool fluorescent light: a thick spiral-bound course workbook, a white registered-mail envelope with a blank form, and a ballpoint pen, shallow depth of field, muted blue-grey palette. No text, no letters, no logos, no brand names, no real people's faces.",
+ "cards": [
+   {"type": "numbers", "title": "부업 강의 피해 숫자", "rows": [
+     ["피해구제 신청", "59건", "2021~2025년 한국소비자원"],
+     ["2025년 한 해", "42건", "2024년 11건"],
+     ["100만~400만원 미만", "89.8%", "피해 금액 구간, 53건"],
+     ["해결 안 됨", "64.4%", "연락두절·환급 거부 등"]
+   ]}
+ ]}
